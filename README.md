@@ -1,11 +1,11 @@
 <div align="center">
   
-# Learning visual representations for compositional analysis of artworks and photographs
-  
-<a href="https://arxiv.org/pdf/2608.06142"><img src="http://img.shields.io/badge/Paper-Arxiv-309898.svg?"></a>
+# Learning Visual Representations for Compositional Analysis of Artworks and Photographs
 
-Accepted at ECCV Workshops 2026: VISART
-</div>
+<a href="https://arxiv.org/pdf/2608.06142"><img src="http://img.shields.io/badge/Paper-ArXiv-309898.svg?"></a>
 
+Accepted at **ECCV Workshops 2026** (<a href="https://visarts.eu/">VISART Workshop</a>).
+
+Accepted for a talk at **the Visual Science of Art Conference (VSAC) 2026**.
 
 Code will be published soon.
